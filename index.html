@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html ng-app="mls">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="css/reset.css"/>
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
+    <link rel="stylesheet" href="css/swiper-3.4.1.min.css" />
+    <link rel="stylesheet" href="css/animate.css" />
+    <script src="js/libs/angular.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/libs/angular-ui-router.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/libs/angular-css.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="app.js" type="text/javascript" charset="utf-8"></script>
+    <script src="components/home/home.js" type="text/javascript" charset="utf-8"></script>
+    <script src="components/mine/mine.js" type="text/javascript" charset="utf-8"></script>
+    <script src="components/shopcar/shopcar.js" type="text/javascript" charset="utf-8"></script>
+    <script src="components/classify/classify.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<body>
+	<div id="wrap">
+		<div id="main" ui-view></div>
+		<div id="tab">
+			<ul>
+				<li>
+					<a ui-sref='home' href="">首页</a>
+				</li>
+				<li>
+					<a ui-sref='classify' href="">分类</a>
+				</li>
+				<li>
+					<a ui-sref='shopcar' href="">购物车</a>
+				</li>
+				<li>
+					<a ui-sref='mine' href="">我</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>

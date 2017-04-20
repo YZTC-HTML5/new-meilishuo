@@ -1,0 +1,28 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ul,ol,li{
+	list-style: none;
+}
+img{
+	border: none;
+}
+a{
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+}
+body{
+	font:0.6rem Arial,Verdana,Sans-serif;
+	color: #333;
+}
+body,html{
+	height :100%;
+	width:100%;	
+}
+html{
+	font-size: 32px;
+}
