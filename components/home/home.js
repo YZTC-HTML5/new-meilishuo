@@ -8,6 +8,8 @@ angular.module('homeModule',[])
             css:'components/home/home.css'
         })
 })
-.controller('homeCtrl',['$scope',function($scope){
-	
+.controller('homeCtrl',['$scope','$http',function($scope,$http){
+	$http.get('json/01.json').success(function(res){
+		console.log(res)
+	})
 }])
