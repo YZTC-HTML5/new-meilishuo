@@ -9,7 +9,7 @@ angular.module('homeModule',[])
         })
 })
 .controller('homeCtrl',['$scope','$http',function($scope,$http){
-	$http.get('json/01.json').success(function(res){
+	$http.get('json/09.json').success(function(res){
 		console.log(res)
 	})
 }])
