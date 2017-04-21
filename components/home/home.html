@@ -1,3 +1,47 @@
 <div id="home_box">
-	<div id="home_head">头部</div>
+	<div id="home_head"><img src="{{home_head.list[0].image}}"/></div>
+	<div id="home_main">
+		<div id="home_search">
+			<form action="" method="post">
+				<img src="components/home/img/logo.png" alt=""  id="logo"/>
+				<input type="text" value="卫衣"/>
+				<img src="components/home/img/xx.png" alt="" />
+			</form>
+		</div>
+		<div id="home_up"><a href="{{home_up.list[0].link}}"><img src="{{home_up.list[0].image}}"/></a></div>
+		<div id="home_menu">
+			<div id="home_menu1">
+				<ul>
+					<li ng-repeat="item in home_menu.list">
+						<a href="{{item.link}}"><img src="{{item.image}}"/></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="home_menu_next" ng-repeat="item in home_menu_next">
+			<a href="{{item.originUrl}}">
+				<img src="{{item.image}}"/>
+				<h3>{{item.title}}</h3>
+				<p>{{item.butDesc}}</p>
+			</a>
+			<div class="home_menu_next_2">
+				<a href="{{items.h5GoodUrl}}" ng-repeat="items in item.goodsList">
+					<img src="{{items.image}}"/>
+					<h3>{{items.title}}</h3>
+					<p>￥{{items.price}}</p>
+				</a>
+			</div>
+		</div>
+		<div id="home_more">查看更多</div>
+		<div id="home_tab">
+			<div ng-click="isClick(moren,isChang1)"><span ng-class="{true: 'chang', false: 'not'}[isChang1]">流行</span></div>
+			<div ng-click="isClick(zuixin,isChang2)"><span ng-class="{true: 'chang', false: 'not'}[isChang2]">新款</span></div>
+			<div ng-click="isClick(jingxuan,isChang3)"><span ng-class="{true: 'chang', false: 'not'}[isChang3]">精选</span></div>
+		</div>
+		<div id="home_tab_main">
+			<ul>
+				<li ng-repeat="item in home_tab_main"><img src="{{item.show.img}}"/></li>
+			</ul>
+		</div>
+	</div>
 </div>
