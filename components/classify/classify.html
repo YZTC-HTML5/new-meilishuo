@@ -1,3 +1,4 @@
+<div class="mainclassify" ui-view>
 <a ui-sref='home' href="" class="a1"><img src="{{img1}}"/></a>
 <p class="p1"></p>
 <p class="p2"><a></a><span>卫衣</span><a></a></p>
@@ -7,7 +8,7 @@
 </div>
 <div class="listTu">
 	<ul>
-		<li ng-repeat="a in listtu"><a><img src="{{a.image}}"/></a></li>
+		<li ng-repeat="a in listtu"><a ui-sref='.list1' href=""><img src="{{a.image}}"/></a></li>
 	</ul>
 </div>
 <div class="clearfix"></div>
@@ -71,3 +72,4 @@
 <ul class="listul">
 	<li ng-repeat="a in listul7"><a><img src="{{a.image}}"/></a></li>
 </ul>
+</div>

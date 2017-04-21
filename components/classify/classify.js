@@ -21,7 +21,6 @@ angular.module('classifyModule',[])
 		$scope.listul5=res.data[17128].list;	
 	})
 	$http.get('json/classify3.json').success(function(res){
-		console.log(res);
 		$scope.listul6=res.data[17129].list;
 		$scope.listul7=res.data[17130].list;	
 	})
