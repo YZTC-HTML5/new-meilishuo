@@ -1,0 +1,7 @@
+.a1{display: inline-block;width: 100%;height: 9%;border-bottom: 1px solid #fdfdfd;position: fixed;top: 0;left: 0;}
+.a1>img{width: 100%;}
+.p1{width: 100%;height:10%;}
+.p2{width: 100%;height:8%;display: flex;align-items: center;}
+.p2 a:nth-of-type(1){width: 15%;height: 100%;display: inline-block;vertical-align: top;background: url(../../img/classify-1.png) no-repeat center;background-size: 50%;}
+.p2 span{width: 70%;height: 60%;display:inline-block;background: yellow;border-radius: 7px;}
+.p2 a:nth-of-type(2){width: 15%;height: 100%;display: inline-block;vertical-align: top;}
