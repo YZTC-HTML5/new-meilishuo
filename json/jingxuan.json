@@ -1,0 +1,1109 @@
+{
+    "success": true,
+    "returnCode": "1001",
+    "returnMessage": null,
+    "data": {
+        "total": 367028,
+        "title": "美丽说wap首页",
+        "sort": "sell",
+        "isEnd": false,
+        "cpc_offset": 0,
+        "param": {
+            "_mgjuuid": "016415b0-0b73-4d1f-a7cc-619f4bc13160",
+            "sort": "sell",
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "ptpWallDoc": "_wall_docs",
+            "cpc_offset": 0,
+            "eventId": 70003,
+            "cKey": "wap-index",
+            "page": "1",
+            "fcid": "10057922",
+            "cpcEventId": 70005,
+            "ptpPartC": "_mb_mls_10057922_wap-index_noab-noab",
+            "minPrice": "5"
+        },
+        "page": 1,
+        "list": [
+            {
+                "orgPrice": "￥85.58",
+                "acm": "3.ms.2_4_1k996hi.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1k996hi",
+                "link": "http://item.meilishuo.com/h5/detail/1k996hi?acm=3.ms.2_4_1k996hi.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1k996hi?acm=3.ms.2_4_1k996hi.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170330_71b9j15gjka25gh5913fl9g5i41fj_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 2344,
+                "title": "中长款卡通印花t恤连衣裙女宽松时尚淑女短袖上衣连衣裙T恤裙潮",
+                "cfav": 5720,
+                "price": "￥59.90",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 200190787,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170330_71b9j15gjka25gh5913fl9g5i41fj_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥55.72",
+                "acm": "3.ms.2_4_1h6jl82.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h6jl82",
+                "link": "http://item.meilishuo.com/h5/detail/1h6jl82?acm=3.ms.2_4_1h6jl82.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h6jl82?acm=3.ms.2_4_1h6jl82.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170319_30i2587kil6ialj026lk3gif49j9e_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 1137,
+                "title": "2017春夏新款女百搭显瘦短袖T恤大码女士简单款刺绣羽毛纯色",
+                "cfav": 2298,
+                "price": "￥39.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1201689093,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170319_30i2587kil6ialj026lk3gif49j9e_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥85.79",
+                "acm": "3.ms.2_4_1k9ccki.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1k9ccki",
+                "link": "http://item.meilishuo.com/h5/detail/1k9ccki?acm=3.ms.2_4_1k9ccki.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1k9ccki?acm=3.ms.2_4_1k9ccki.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "990 82 107 135",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170322/upload_64lh344f8h2ec75bb78begd72h4ig_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 975,
+                "title": "欧美日系原宿卡通犬男女情侣装短袖T恤BF风",
+                "cfav": 3311,
+                "price": "￥43.75",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/848ab5/170419_4id09521kgkdif63i8cbkf4eddbd9_90x90.png",
+                        "w": 90,
+                        "h": 90
+                    }
+                ],
+                "shopId": 1302161088,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170322/upload_64lh344f8h2ec75bb78begd72h4ig_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥36.77",
+                "acm": "3.ms.2_4_1h6wiki.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h6wiki",
+                "link": "http://item.meilishuo.com/h5/detail/1h6wiki?acm=3.ms.2_4_1h6wiki.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h6wiki?acm=3.ms.2_4_1h6wiki.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "82 135 107 990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170322/upload_789k3ghkh7he6ce03adi777d8lj50_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 868,
+                "title": "2017春季新款女装时尚性感纯色针织背心",
+                "cfav": 2169,
+                "price": "￥18.75",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/848ab5/170419_4id09521kgkdif63i8cbkf4eddbd9_90x90.png",
+                        "w": 90,
+                        "h": 90
+                    }
+                ],
+                "shopId": 1302161088,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170322/upload_789k3ghkh7he6ce03adi777d8lj50_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥58.00",
+                "acm": "3.ms.2_1_1ka3e8y.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_196953878_0_1_0-c1_",
+                "iid": "1ka3e8y",
+                "link": "http://item.meilishuo.com/h5/detail/1ka3e8y?acm=3.ms.2_1_1ka3e8y.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_196953878_0_1_0-c1_&cparam=MTQ5Mjc0MzcxN18xNmJrdnRlXzQ1MTFjMWM5YzliMzdlODM0NmRjM2I2MjE4ZGI3ZTA4XzE2XzBfMTk2OTUzODc4XzAuOTI2XzBfMV8xXzMxMF8wXzA=",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1ka3e8y?acm=3.ms.2_1_1ka3e8y.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_196953878_0_1_0-c1_&cparam=MTQ5Mjc0MzcxN18xNmJrdnRlXzQ1MTFjMWM5YzliMzdlODM0NmRjM2I2MjE4ZGI3ZTA4XzE2XzBfMTk2OTUzODc4XzAuOTI2XzBfMV8xXzMxMF8wXzA=",
+                "itemType": 3,
+                "popularStar": "0",
+                "cparam": "MTQ5Mjc0MzcxN18xNmJrdnRlXzQ1MTFjMWM5YzliMzdlODM0NmRjM2I2MjE4ZGI3ZTA4XzE2XzBfMTk2OTUzODc4XzAuOTI2XzBfMV8xXzMxMF8wXzA=",
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170412_803ig99gic69j30j5j1j0gg76a681_800x1200.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "41",
+                "title": "2017春季新款韩版后背蝴蝶结系带短袖t恤女装半袖打底衫上衣",
+                "cfav": "28",
+                "price": "￥58.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "101006844",
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170412_803ig99gic69j30j5j1j0gg76a681_800x1200.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_53je1gbj88bjheidae4al1le4h94i_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥50.00",
+                "acm": "3.ms.2_1_1h64wbg.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_191123565_0_2_0-c1_",
+                "iid": "1h64wbg",
+                "link": "http://item.meilishuo.com/h5/detail/1h64wbg?acm=3.ms.2_1_1h64wbg.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_191123565_0_2_0-c1_&cparam=MTQ5Mjc0MzcxN18xNmg2ZXJtXzA2Y2RkYjQwZDgzYzg2NDNmNzE0YmYzZmNjN2IwZTc4XzE2XzFfMTkxMTIzNTY1XzAuOTg0M18wXzJfMV85Ml8wXzA=",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h64wbg?acm=3.ms.2_1_1h64wbg.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_191123565_0_2_0-c1_&cparam=MTQ5Mjc0MzcxN18xNmg2ZXJtXzA2Y2RkYjQwZDgzYzg2NDNmNzE0YmYzZmNjN2IwZTc4XzE2XzFfMTkxMTIzNTY1XzAuOTg0M18wXzJfMV85Ml8wXzA=",
+                "itemType": 3,
+                "popularStar": "0",
+                "cparam": "MTQ5Mjc0MzcxN18xNmg2ZXJtXzA2Y2RkYjQwZDgzYzg2NDNmNzE0YmYzZmNjN2IwZTc4XzE2XzFfMTkxMTIzNTY1XzAuOTg0M18wXzJfMV85Ml8wXzA=",
+                "itemMarks": "82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170309/980363356_7c17i09ak23bj8ec2f08fh683l9l9_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "197",
+                "title": "【两件减5元】春夏新款性感百搭修身外穿打底内搭吊带背心女短款",
+                "cfav": "415",
+                "price": "￥34.50",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "101003678",
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170309/980363356_7c17i09ak23bj8ec2f08fh683l9l9_640x832.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 728
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥85.58",
+                "acm": "3.ms.2_4_1k9j4t6.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1k9j4t6",
+                "link": "http://item.meilishuo.com/h5/detail/1k9j4t6?acm=3.ms.2_4_1k9j4t6.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1k9j4t6?acm=3.ms.2_4_1k9j4t6.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170404_8f88b34g8491g3il8igh6gb6ag0k3_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 861,
+                "title": "刺绣贴布拼接中长款T恤连衣裙时尚显瘦甜美个性露肩五分袖连衣裙",
+                "cfav": 1816,
+                "price": "￥59.90",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 200190787,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170404_8f88b34g8491g3il8igh6gb6ag0k3_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥71.29",
+                "acm": "3.ms.2_4_1k999n8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1k999n8",
+                "link": "http://item.meilishuo.com/h5/detail/1k999n8?acm=3.ms.2_4_1k999n8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1k999n8?acm=3.ms.2_4_1k999n8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170330_1k2464jeljf1ljli8eei0273llgka_640x960.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 823,
+                "title": "春装新款七分袖挂脖T恤女时尚宽松露肩拼色上衣打底衫撞色体恤潮",
+                "cfav": 1200,
+                "price": "￥49.90",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 200190787,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170330_1k2464jeljf1ljli8eei0273llgka_640x960.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 840
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥49.02",
+                "acm": "3.ms.2_4_1k9pgp0.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1k9pgp0",
+                "link": "http://item.meilishuo.com/h5/detail/1k9pgp0?acm=3.ms.2_4_1k9pgp0.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1k9pgp0?acm=3.ms.2_4_1k9pgp0.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "990 82 107 135",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170327/upload_32dkg6h69i5l996didgllce1j97k6_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 672,
+                "title": "2017夏季纯色性感针织背心女短款修身显瘦学生休闲打底吊带衫",
+                "cfav": 2065,
+                "price": "￥25.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/848ab5/170419_4id09521kgkdif63i8cbkf4eddbd9_90x90.png",
+                        "w": 90,
+                        "h": 90
+                    }
+                ],
+                "shopId": 1302161088,
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/p2/170327/upload_32dkg6h69i5l996didgllce1j97k6_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥60.00",
+                "acm": "3.ms.2_4_1h6nkk8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h6nkk8",
+                "link": "http://item.meilishuo.com/h5/detail/1h6nkk8?acm=3.ms.2_4_1h6nkk8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h6nkk8?acm=3.ms.2_4_1h6nkk8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170322_8a52llab7h7ke6bh06i44hj467eh5_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 639,
+                "title": "2017春夏网纱裙半身裙长裙a字蓬蓬裙高腰裙子夏季百褶中长裙",
+                "cfav": 1199,
+                "price": "￥48.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 101003769,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170322_8a52llab7h7ke6bh06i44hj467eh5_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥93.14",
+                "acm": "3.ms.2_4_1h6e6r8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h6e6r8",
+                "link": "http://item.meilishuo.com/h5/detail/1h6e6r8?acm=3.ms.2_4_1h6e6r8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h6e6r8?acm=3.ms.2_4_1h6e6r8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "82 135 107 990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170302/upload_7c40ki2ef737788kdglkk3cke7ia2_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 624,
+                "title": "2017春夏新款韩版女装破洞纯棉宽松显瘦字母印花五分袖T恤",
+                "cfav": 2512,
+                "price": "￥47.50",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/848ab5/170419_4id09521kgkdif63i8cbkf4eddbd9_90x90.png",
+                        "w": 90,
+                        "h": 90
+                    }
+                ],
+                "shopId": 1302161088,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170302/upload_7c40ki2ef737788kdglkk3cke7ia2_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥71.29",
+                "acm": "3.ms.2_4_1k9j4zg.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1k9j4zg",
+                "link": "http://item.meilishuo.com/h5/detail/1k9j4zg?acm=3.ms.2_4_1k9j4zg.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1k9j4zg?acm=3.ms.2_4_1k9j4zg.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170404_75h7ejhb4lfb013k5kka3lec5bibj_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 574,
+                "title": "圆领七分袖字母印花连衣裙时尚显瘦中长款T恤裙女显瘦连衣裙潮",
+                "cfav": 1166,
+                "price": "￥49.90",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 200190787,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170404_75h7ejhb4lfb013k5kka3lec5bibj_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥41.00",
+                "acm": "3.ms.2_4_1h3sejg.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h3sejg",
+                "link": "http://item.meilishuo.com/h5/detail/1h3sejg?acm=3.ms.2_4_1h3sejg.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h3sejg?acm=3.ms.2_4_1h3sejg.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "98 82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170102/1311817985_298c2jce439fh4i2chhgc7k7jfbf6_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 561,
+                "title": "2017新款夏天简约宽松圆领假两件拼接百搭前短后长短袖t恤女",
+                "cfav": 2004,
+                "price": "￥28.70",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1201722722,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170102/1311817985_298c2jce439fh4i2chhgc7k7jfbf6_640x832.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 728
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥59.00",
+                "acm": "3.ms.2_4_1h6rkqu.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h6rkqu",
+                "link": "http://item.meilishuo.com/h5/detail/1h6rkqu?acm=3.ms.2_4_1h6rkqu.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h6rkqu?acm=3.ms.2_4_1h6rkqu.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170323_1j9e96d2lald2cl1l1k9egek9ib41_640x832.png_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 556,
+                "title": "夏季新款街头笑脸印花T恤宽松短袖学院风打底衫女同学T恤上衣",
+                "cfav": 1087,
+                "price": "￥59.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1300561786,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170323_1j9e96d2lald2cl1l1k9egek9ib41_640x832.png_560x999.jpg",
+                    "w": 560,
+                    "h": 728
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥90.00",
+                "acm": "3.ms.2_1_1gkm5py.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_195824773_0_3_0-c1_",
+                "iid": "1gkm5py",
+                "link": "http://item.meilishuo.com/h5/detail/1gkm5py?acm=3.ms.2_1_1gkm5py.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_195824773_0_3_0-c1_&cparam=MTQ5Mjc0MzcxN18xNXloaGdrXzg4YTg4M2M1YzJjNWZmOGMwMWIzY2U4YzQ0MGE5NmQ2XzE2XzJfMTk1ODI0NzczXzAuODU1OF8wXzNfMV8xOTdfMF8w",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1gkm5py?acm=3.ms.2_1_1gkm5py.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_195824773_0_3_0-c1_&cparam=MTQ5Mjc0MzcxN18xNXloaGdrXzg4YTg4M2M1YzJjNWZmOGMwMWIzY2U4YzQ0MGE5NmQ2XzE2XzJfMTk1ODI0NzczXzAuODU1OF8wXzNfMV8xOTdfMF8w",
+                "itemType": 3,
+                "popularStar": "0",
+                "cparam": "MTQ5Mjc0MzcxN18xNXloaGdrXzg4YTg4M2M1YzJjNWZmOGMwMWIzY2U4YzQ0MGE5NmQ2XzE2XzJfMTk1ODI0NzczXzAuODU1OF8wXzNfMV8xOTdfMF8w",
+                "itemMarks": "98 82",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/ab/e9/b6396044468edba131a6a6143254_640_832.c5.jpg_c1ff414c_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "6",
+                "title": "2017夏季新款韩版时尚宽松学院风吊带露肩V领短袖t恤",
+                "cfav": "212",
+                "price": "￥63.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "1201688965",
+                "showLarge": {
+                    "img": "http://d01.res.meilishuo.net/pic/_o/ab/e9/b6396044468edba131a6a6143254_640_832.c5.jpg_e0f78887_s1_560_999.jpg",
+                    "w": 560,
+                    "h": 728
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥165.00",
+                "acm": "3.ms.2_1_1gqiy94.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_180126774_0_4_0-c1_",
+                "iid": "1gqiy94",
+                "link": "http://item.meilishuo.com/h5/detail/1gqiy94?acm=3.ms.2_1_1gqiy94.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_180126774_0_4_0-c1_&cparam=MTQ5Mjc0MzcxN18xNmg4bG42X2FjMTkwOWYyNWUzYjNkMWRmMjBhMTMxNmRkOGI4MTQzXzE2XzNfMTgwMTI2Nzc0XzAuODMzNF8wXzRfMV85NTNfMF8w",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1gqiy94?acm=3.ms.2_1_1gqiy94.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_180126774_0_4_0-c1_&cparam=MTQ5Mjc0MzcxN18xNmg4bG42X2FjMTkwOWYyNWUzYjNkMWRmMjBhMTMxNmRkOGI4MTQzXzE2XzNfMTgwMTI2Nzc0XzAuODMzNF8wXzRfMV85NTNfMF8w",
+                "itemType": 3,
+                "popularStar": "5",
+                "cparam": "MTQ5Mjc0MzcxN18xNmg4bG42X2FjMTkwOWYyNWUzYjNkMWRmMjBhMTMxNmRkOGI4MTQzXzE2XzNfMTgwMTI2Nzc0XzAuODMzNF8wXzRfMV85NTNfMF8w",
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/161018/990743481_650flj33d0lgb68l4jch2bceg3k52_640x1000.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "358",
+                "title": "【双面穿】17春季新品韩版双面穿刺绣棒球服外套飞行员夹克外套",
+                "cfav": "5638",
+                "price": "￥165.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "101007597",
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/161018/990743481_650flj33d0lgb68l4jch2bceg3k52_640x1000.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 875
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥55.00",
+                "acm": "3.ms.2_4_1h66dss.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h66dss",
+                "link": "http://item.meilishuo.com/h5/detail/1h66dss?acm=3.ms.2_4_1h66dss.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h66dss?acm=3.ms.2_4_1h66dss.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170312/986597686_461j8ckh23k637f60kf2cid6f9033_640x832.png_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 543,
+                "title": "17春夏新款打底衫刺绣T恤镶钻修身印花短袖上衣",
+                "cfav": 632,
+                "price": "￥55.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 101006844,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170312/986597686_461j8ckh23k637f60kf2cid6f9033_640x832.png_560x999.jpg",
+                    "w": 560,
+                    "h": 728
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥147.06",
+                "acm": "3.ms.2_4_1h6enxy.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h6enxy",
+                "link": "http://item.meilishuo.com/h5/detail/1h6enxy?acm=3.ms.2_4_1h6enxy.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h6enxy?acm=3.ms.2_4_1h6enxy.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "990 107 135",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170308/upload_53k7c183187025jei5cljkkd573g3_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 456,
+                "title": "【新品】新款2017韩版宽松显瘦两件套字母印花破洞卫衣",
+                "cfav": 3083,
+                "price": "￥75.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/848ab5/170419_4id09521kgkdif63i8cbkf4eddbd9_90x90.png",
+                        "w": 90,
+                        "h": 90
+                    }
+                ],
+                "shopId": 1302161088,
+                "showLarge": {
+                    "img": "http://s11.mogucdn.com/p2/170308/upload_53k7c183187025jei5cljkkd573g3_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥73.53",
+                "acm": "3.ms.2_4_1ka0x0w.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1ka0x0w",
+                "link": "http://item.meilishuo.com/h5/detail/1ka0x0w?acm=3.ms.2_4_1ka0x0w.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1ka0x0w?acm=3.ms.2_4_1ka0x0w.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "990 107 135",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170330/upload_1h1kc5dak260he4be2edjhc25k14e_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 431,
+                "title": "t恤女韩版潮宽松2017春夏新款学生小人卡通字母印花短袖",
+                "cfav": 990,
+                "price": "￥37.50",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/848ab5/170419_4id09521kgkdif63i8cbkf4eddbd9_90x90.png",
+                        "w": 90,
+                        "h": 90
+                    }
+                ],
+                "shopId": 1302161088,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170330/upload_1h1kc5dak260he4be2edjhc25k14e_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥195.00",
+                "acm": "3.ms.2_4_1fw2m5e.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1fw2m5e",
+                "link": "http://item.meilishuo.com/h5/detail/1fw2m5e?acm=3.ms.2_4_1fw2m5e.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1fw2m5e?acm=3.ms.2_4_1fw2m5e.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "153 98 107",
+                "show": {
+                    "w": 320,
+                    "img": "http://d01.res.meilishuo.net/pic/_o/e3/37/60aaa9e2433d729d21c12bca80c8_640_941.c1.jpg_0df04912_s1_320_999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 425,
+                "title": "春秋新款韩版印花棒球外套显瘦百搭棒球服休闲开衫夹克女",
+                "cfav": 5613,
+                "price": "￥58.50",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1201684180,
+                "showLarge": {
+                    "img": "http://d01.res.meilishuo.net/pic/_o/e3/37/60aaa9e2433d729d21c12bca80c8_640_941.c1.jpg_1936c52a_s1_560_999.jpg",
+                    "w": 560,
+                    "h": 824
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥57.00",
+                "acm": "3.ms.2_4_1k9p0nq.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1k9p0nq",
+                "link": "http://item.meilishuo.com/h5/detail/1k9p0nq?acm=3.ms.2_4_1k9p0nq.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1k9p0nq?acm=3.ms.2_4_1k9p0nq.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170406_70cidebbbl516f9j2e0a451106agg_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 421,
+                "title": "不规则前短后长卡通印花中长宽松t恤上衣连衣裙2017夏季新款",
+                "cfav": 2070,
+                "price": "￥39.90",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 200190309,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170406_70cidebbbl516f9j2e0a451106agg_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥96.00",
+                "acm": "3.ms.2_4_1k9nn2c.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1k9nn2c",
+                "link": "http://item.meilishuo.com/h5/detail/1k9nn2c?acm=3.ms.2_4_1k9nn2c.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1k9nn2c?acm=3.ms.2_4_1k9nn2c.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170405_6f3244i3flh2fdli5ggb83c02ega4_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 416,
+                "title": "半身裙长裙蓬蓬裙高腰夏季百褶雪纺网纱裙中长款2017新款",
+                "cfav": 1048,
+                "price": "￥48.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1300253950,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170405_6f3244i3flh2fdli5ggb83c02ega4_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥95.59",
+                "acm": "3.ms.2_4_1h5ss3w.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h5ss3w",
+                "link": "http://item.meilishuo.com/h5/detail/1h5ss3w?acm=3.ms.2_4_1h5ss3w.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h5ss3w?acm=3.ms.2_4_1h5ss3w.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "135 107 990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170306/upload_3dbefhah2j3begb0a5a8che434j53_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 414,
+                "title": "2017春夏装亮丝显瘦性感短袖针织衫圆领修身T恤",
+                "cfav": 3050,
+                "price": "￥48.75",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/848ab5/170419_4id09521kgkdif63i8cbkf4eddbd9_90x90.png",
+                        "w": 90,
+                        "h": 90
+                    }
+                ],
+                "shopId": 1302161088,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170306/upload_3dbefhah2j3begb0a5a8che434j53_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥128.43",
+                "acm": "3.ms.2_4_1h62794.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h62794",
+                "link": "http://item.meilishuo.com/h5/detail/1h62794?acm=3.ms.2_4_1h62794.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h62794?acm=3.ms.2_4_1h62794.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "82",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170309/1475415307_6al1f1j6dlh07fah733c0j21gh6eg_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 389,
+                "title": "2017年春季新款V领复古印花气质连衣裙蝴蝶结系带碎花长裙子",
+                "cfav": 649,
+                "price": "￥89.90",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 200190787,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170309/1475415307_6al1f1j6dlh07fah733c0j21gh6eg_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥212.00",
+                "acm": "3.ms.2_1_1ka1axy.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_195875885_0_5_0-c1_",
+                "iid": "1ka1axy",
+                "link": "http://item.meilishuo.com/h5/detail/1ka1axy?acm=3.ms.2_1_1ka1axy.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_195875885_0_5_0-c1_&cparam=MTQ5Mjc0MzcxN18xNmo5eHFtXzdjNjhlZDI0NWZjZDNmYmMzZTc5MmIxZWNlZmVjNDg4XzE2XzRfMTk1ODc1ODg1XzAuOTk5NV8wXzVfMV80MDhfMF8w",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1ka1axy?acm=3.ms.2_1_1ka1axy.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_195875885_0_5_0-c1_&cparam=MTQ5Mjc0MzcxN18xNmo5eHFtXzdjNjhlZDI0NWZjZDNmYmMzZTc5MmIxZWNlZmVjNDg4XzE2XzRfMTk1ODc1ODg1XzAuOTk5NV8wXzVfMV80MDhfMF8w",
+                "itemType": 3,
+                "popularStar": "0",
+                "cparam": "MTQ5Mjc0MzcxN18xNmo5eHFtXzdjNjhlZDI0NWZjZDNmYmMzZTc5MmIxZWNlZmVjNDg4XzE2XzRfMTk1ODc1ODg1XzAuOTk5NV8wXzVfMV80MDhfMF8w",
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170413_86l6fhe9h6aibgj9199ij5ee42if8_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "1",
+                "title": "2017夏季新款女装韩版潮时尚百搭撞色连帽宽松大版休闲连衣裙",
+                "cfav": "6",
+                "price": "￥148.40",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "100177066",
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170413_86l6fhe9h6aibgj9199ij5ee42if8_640x832.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 728
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥80.00",
+                "acm": "3.ms.2_1_1kannyu.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_197586667_0_6_0-c1_",
+                "iid": "1kannyu",
+                "link": "http://item.meilishuo.com/h5/detail/1kannyu?acm=3.ms.2_1_1kannyu.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_197586667_0_6_0-c1_&cparam=MTQ5Mjc0MzcxN18xMWtfZDAxNDdiZDgxODg1OWQyNTk0OGMyMjRjZDc4MmE1YjRfMTZfNV8xOTc1ODY2NjdfMF8wXzZfMV80NF8wXzA=",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1kannyu?acm=3.ms.2_1_1kannyu.1.5865-25176.94mObqhoAvV5k.t_0-lc_16-c_1_16_197586667_0_6_0-c1_&cparam=MTQ5Mjc0MzcxN18xMWtfZDAxNDdiZDgxODg1OWQyNTk0OGMyMjRjZDc4MmE1YjRfMTZfNV8xOTc1ODY2NjdfMF8wXzZfMV80NF8wXzA=",
+                "itemType": 3,
+                "popularStar": "0",
+                "cparam": "MTQ5Mjc0MzcxN18xMWtfZDAxNDdiZDgxODg1OWQyNTk0OGMyMjRjZDc4MmE1YjRfMTZfNV8xOTc1ODY2NjdfMF8wXzZfMV80NF8wXzA=",
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/55cf19/170420_79593i3idca459gil60dd412e61ga_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": "2",
+                "title": "T恤女卡通印花学生短袖大码打底体恤衫",
+                "cfav": "4",
+                "price": "￥56.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": "100186766",
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/55cf19/170420_79593i3idca459gil60dd412e61ga_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_5k6k8eiffl43633479294a49f8gci_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥127.46",
+                "acm": "3.ms.2_4_1h6r8hu.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h6r8hu",
+                "link": "http://item.meilishuo.com/h5/detail/1h6r8hu?acm=3.ms.2_4_1h6r8hu.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h6r8hu?acm=3.ms.2_4_1h6r8hu.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "135 107 990",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170320/upload_7ij616ck9iaf22h5c1ch23cb451d2_640x900.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 385,
+                "title": "2017韩版字母印花挂脖露肩套头卫衣",
+                "cfav": 2120,
+                "price": "￥65.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/848ab5/170419_4id09521kgkdif63i8cbkf4eddbd9_90x90.png",
+                        "w": 90,
+                        "h": 90
+                    }
+                ],
+                "shopId": 1302161088,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170320/upload_7ij616ck9iaf22h5c1ch23cb451d2_640x900.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 788
+                },
+                "leftbottom_taglist": [
+                    "http://s2.mogucdn.com/p2/170307/1_1h8e97a4ed6giciglgjae69g9a269_60x28.png"
+                ]
+            },
+            {
+                "orgPrice": "￥49.00",
+                "acm": "3.ms.2_4_1h5h5y8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h5h5y8",
+                "link": "http://item.meilishuo.com/h5/detail/1h5h5y8?acm=3.ms.2_4_1h5h5y8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h5h5y8?acm=3.ms.2_4_1h5h5y8.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 5,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/p2/170226/990743481_5e85a2jkle7bg7bd7aj036ld7fj82_640x961.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 384,
+                "title": "2017春季新款宽松假两件蕾丝拼接字母印花T恤女",
+                "cfav": 2007,
+                "price": "￥49.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 101007597,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/p2/170226/990743481_5e85a2jkle7bg7bd7aj036ld7fj82_640x961.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 841
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥50.00",
+                "acm": "3.ms.2_4_1h6v3ae.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1h6v3ae",
+                "link": "http://item.meilishuo.com/h5/detail/1h6v3ae?acm=3.ms.2_4_1h6v3ae.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1h6v3ae?acm=3.ms.2_4_1h6v3ae.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170326_110aik2g9107h97d51hc0ea692aj5_640x832.jpg_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 380,
+                "title": "欧美2017夏装新款女装荷叶边上衣喇叭袖立领短袖t恤女宽松潮",
+                "cfav": 1084,
+                "price": "￥35.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1201722722,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170326_110aik2g9107h97d51hc0ea692aj5_640x832.jpg_560x999.jpg",
+                    "w": 560,
+                    "h": 728
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            },
+            {
+                "orgPrice": "￥56.00",
+                "acm": "3.ms.2_4_1k9gcvw.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "iid": "1k9gcvw",
+                "link": "http://item.meilishuo.com/h5/detail/1k9gcvw?acm=3.ms.2_4_1k9gcvw.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "clientUrl": "http://item.meilishuo.com/h5/detail/1k9gcvw?acm=3.ms.2_4_1k9gcvw.0.13385-25176.94mObqhoAvV5k.t_0-lc_16",
+                "itemType": 5,
+                "popularStar": 0,
+                "cparam": null,
+                "itemMarks": "",
+                "show": {
+                    "w": 320,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170410_2i34aehlkjge4ic4dja23k49hjc9g_640x832.png_320x999.jpg",
+                    "h": 416
+                },
+                "type": 2,
+                "sale": 372,
+                "title": "2017春夏新款圆领宽松大码美女印花字母T恤女学生短袖打底衫",
+                "cfav": 1331,
+                "price": "￥56.00",
+                "ptpC": "_mb_mls_10057922_wap-index_noab-noab",
+                "lefttop_taglist": [
+                    
+                ],
+                "shopId": 1300561786,
+                "showLarge": {
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170410_2i34aehlkjge4ic4dja23k49hjc9g_640x832.png_560x999.jpg",
+                    "w": 560,
+                    "h": 728
+                },
+                "leftbottom_taglist": [
+                    
+                ]
+            }
+        ],
+        "ptpPartC": "_mb_mls_10057922_wap-index_noab-noab",
+        "filter": {
+            "title": "美丽说wap首页",
+            "list": [
+                {
+                    "title": "流行",
+                    "sort": "pop",
+                    "style": null,
+                    "fcid": "10057922",
+                    "type": "sort"
+                },
+                {
+                    "title": "热销",
+                    "sort": "sell",
+                    "style": null,
+                    "fcid": "10057922",
+                    "type": "sort"
+                },
+                {
+                    "title": "上新",
+                    "sort": "new",
+                    "style": null,
+                    "fcid": "10057922",
+                    "type": "sort"
+                }
+            ]
+        }
+    }
+}
