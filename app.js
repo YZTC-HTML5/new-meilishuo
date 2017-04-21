@@ -1,4 +1,4 @@
-angular.module('mls',["ui.router",'angularCSS','homeModule','mineModule','classifyModule','shopcarModule'])
+angular.module('mls',["ui.router",'angularCSS','homeModule','mineModule','classifyModule','shopcarModule','list1Module','sortpopModule'])
 .config(function($stateProvider, $urlRouterProvider){
     $urlRouterProvider.otherwise('/home');
 })
