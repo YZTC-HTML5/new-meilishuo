@@ -9,18 +9,6 @@ angular.module('homeModule',[])
         })
 })
 
-//依赖注入
-//.service('swiper',['$timeout',function($timeout){
-//	$timeout(function(){
-//		new Swiper ('.swiper-container', {
-//		    loop: true,
-//		    autoplay:500,
-//		    // 如果需要分页器
-//		    pagination: '.swiper-pagination',
-//		  }) 
-//	},10);
-//}])
-
 .controller('homeCtrl',['$scope','$http',function($scope,$http){
 	$scope.ischang=0
 	$http.get('json/topContent.json').success(function(res){
@@ -49,6 +37,14 @@ angular.module('homeModule',[])
 		$scope.home_tab_main=datas;	
 		
 	}
-	
+	$("#main").onscroll = function () {
+		console.log(999)
+	}
+//	$("#sec").on('scroll',function(){
+//		console.log(11111);
+//	})
+	$("#main").on('scroll',function(){
+		console.log(11111);
+	})
 	
 }])
