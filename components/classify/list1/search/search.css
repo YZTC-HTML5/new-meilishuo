@@ -1,0 +1,14 @@
+.mainclassify{background: #fff;position: relative;overflow: hidden;}
+.divui{background:#fff;width: 100%;height: 100%;position: absolute;top: 0;z-index: 1000;}
+#home2_search{width: 100%;height: 1.9rem;}
+#home2_search>form{width: 100%;height: 100%;}
+#home2_search>form>img{margin-left:.6rem;width: .7rem;vertical-align: middle;}
+#home2_search #logo2{width: 1.3rem;}
+#home2_search>form>input{width: 11.3rem;height: 1.2rem;margin:.35rem 0 0 .6rem; border: none;border-radius: 5px;outline: none;
+	background:#f4f4f4 url("../img/search.png")no-repeat .4rem center ;padding-left: 1.2rem;color: #a9a9a9;background-size: .5rem .5rem;}
+#home2_main{width: 15.4rem;height: 5.4rem;margin-left: .6rem;padding:.6rem 0 1rem 0;}
+#home2_main>h3{width: 100%;font-size: .7rem;color: #3333333;font-weight: normal;}
+#home2_main>h3>span{width: .6rem;height:.7rem;display: inline-block; background: url("../img/hot.png")no-repeat;background-size:100% 100%;margin-right: .2rem;}
+#home2_main>ul>li{float: left;font-size: .6rem;padding: .1rem .5rem;margin:.5rem 0 0 .4rem ;background:#f4f4f4 ;border-radius: 10px;}
+/*#home2_main>ul>li:nth-child(2n){color: #ff3366;}*/
+#home2_main .r1{color: #ff3366}

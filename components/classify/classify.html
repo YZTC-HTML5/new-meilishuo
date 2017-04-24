@@ -1,7 +1,7 @@
 <div class="mainclassify" ui-view>
 <a ui-sref='home' href="" class="a1"><img src="{{img1}}"/></a>
 <p class="p1"></p>
-<p class="p2"><a></a><span>卫衣</span><a></a></p>
+<p class="p2"><a></a><span ><a ui-sref='.search' href="" ng-click="ishides=1">卫衣</a></span><a></a></p>
 <div class="divtop">
 	<p>全部分类</p>
 	<p>ALL CLASSIFICATION</p>
@@ -22,7 +22,7 @@
 </div>
 <div class="clearfix"></div>
 <ul class="listul">
-	<li ng-repeat="a in listul"><a><img src="{{a.image}}"/></a></li>
+	<li ng-repeat="a in listul"><a href="{{a.link}}"><img src="{{a.image}}"/></a></li>
 </ul>
 <div class="title1">
 	<p>时髦美裙</p>
@@ -30,7 +30,7 @@
 </div>
 <div class="clearfix"></div>
 <ul class="listul">
-	<li ng-repeat="a in listul2"><a><img src="{{a.image}}"/></a></li>
+	<li ng-repeat="a in listul2"><a href="{{a.link}}"><img src="{{a.image}}"/></a></li>
 </ul>
 <div class="title1">
 	<p>精选裤子</p>
@@ -38,7 +38,7 @@
 </div>
 <div class="clearfix"></div>
 <ul class="listul">
-	<li ng-repeat="a in listul3"><a><img src="{{a.image}}"/></a></li>
+	<li ng-repeat="a in listul3"><a href="{{a.link}}"><img src="{{a.image}}"/></a></li>
 </ul>
 <div class="title1">
 	<p>百搭鞋品</p>
@@ -46,7 +46,7 @@
 </div>
 <div class="clearfix"></div>
 <ul class="listul">
-	<li ng-repeat="a in listul4"><a><img src="{{a.image}}"/></a></li>
+	<li ng-repeat="a in listul4"><a href="{{a.link}}"><img src="{{a.image}}"/></a></li>
 </ul>
 <div class="title1">
 	<p>百搭包配</p>
@@ -54,7 +54,7 @@
 </div>
 <div class="clearfix"></div>
 <ul class="listul">
-	<li ng-repeat="a in listul5"><a><img src="{{a.image}}"/></a></li>
+	<li ng-repeat="a in listul5"><a href="{{a.link}}"><img src="{{a.image}}"/></a></li>
 </ul>
 <div class="title1">
 	<p>正品美妆</p>
@@ -62,7 +62,7 @@
 </div>
 <div class="clearfix"></div>
 <ul class="listul">
-	<li ng-repeat="a in listul6"><a><img src="{{a.image}}"/></a></li>
+	<li ng-repeat="a in listul6"><a href="{{a.link}}"><img src="{{a.image}}"/></a></li>
 </ul>
 <div class="title1">
 	<p>家居美食</p>
@@ -70,6 +70,6 @@
 </div>
 <div class="clearfix"></div>
 <ul class="listul">
-	<li ng-repeat="a in listul7"><a><img src="{{a.image}}"/></a></li>
+	<li ng-repeat="a in listul7"><a href="{{a.link}}"><img src="{{a.image}}"/></a></li>
 </ul>
 </div>
