@@ -37,13 +37,13 @@ angular.module('homeModule',[])
 		$scope.home_tab_main=datas;	
 		
 	}
-	$("#main").onscroll = function () {
-		console.log(999)
-	}
+//	$("#home_box").onscroll = function () {
+//		console.log(999)
+//	}
 //	$("#sec").on('scroll',function(){
 //		console.log(11111);
 //	})
-	$("#main").on('scroll',function(){
+	$("#home_box>div").on('scroll',function(){
 		console.log(11111);
 	})
 	
