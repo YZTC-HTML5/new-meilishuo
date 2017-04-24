@@ -1,5 +1,9 @@
 #wrap{width: 100%;height: 100%;position: relative;}
 #main{width: 100%;height: 90%;position: absolute;}
-#tab{width: 100%;height: 10%;background: lightblue;border-top: 1px solid lightgray;position: fixed;bottom: 0;}
+#tab{width: 100%;height: 10%;background: #fafafa;border-top: 1px solid #e5e5e5;position: fixed;bottom: 0;}
 #tab>ul{width: 100%;height: 100%;}
-#tab>ul>li{width: 25%;height: 100%;float: left;text-align: center;}
+#tab>ul>li{width: 25%;height: 100%;float: left;text-align: center;position: relative;}
+#tab>ul>li img{width: 20%;position: absolute;left: 1.6rem;top: .6rem;}
+#tab>ul>li a{display: block;font-size: .25rem;height: 100%;line-height: 4rem;}
+.active{color: #999;}
+.inactive{color: #ff3366;}

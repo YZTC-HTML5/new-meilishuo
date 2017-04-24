@@ -24,18 +24,25 @@
 <body>
 	<div id="wrap">
 		<div id="main" ui-view></div>
-		<div id="tab">
+		<div id="tab" ng-controller='tabCtrl' ng-show=isTabShow >
 			<ul>
-				<li>
-					<a ui-sref='home' href="">首页</a>
+				<li ng-click='changeHome()'>
+					<img src="img/home.png" ng-show=isHome1 />
+					<img src="img/home1.png" ng-show=isHome />
+					<a ui-sref='home' href="" ng-class="{true:'active',false:'inactive'}[isHome2]" >首页</a>
 				</li>
-				<li>
-					<a ui-sref='classify' href="">分类</a>
+				<li ng-click='changeClassify()'>
+					<img src="img/classify.png" ng-show=isClassify1 />
+					<img src="img/classify1.png" ng-show=isClassify />
+					<a ui-sref='classify' href=""  ng-class="{true:'active',false:'inactive'}[isClassify2]" >分类</a>
 				</li>
-				<li>
-					<a ui-sref='shopcar' href="">购物车</a>
+				<li ng-click='changeShopcar()'>
+					<img src="img/shopcar.png" ng-show=isShopcar1 />
+					<img src="img/shopcar1.png" ng-show=isShopcar />
+					<a ui-sref='shopcar' href="" ng-class="{true:'active',false:'inactive'}[isShopcar2]" >购物车</a>
 				</li>
-				<li>
+				<li ng-click='changeTabShow()'>
+					<img src="img/mine.png"/>
 					<a ui-sref='mine' href="">我</a>
 				</li>
 			</ul>

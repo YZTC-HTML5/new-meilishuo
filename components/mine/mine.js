@@ -9,5 +9,9 @@ angular.module('mineModule',[])
         })
 })
 .controller('mineCtrl',['$scope',function($scope){
-	
+	$scope.isShopShow=true;
+	$scope.changeShopShow=function(){
+		$scope.isShopShow=!$scope.isShopShow;
+		$scope.isTabShow = true;
+	}
 }])
