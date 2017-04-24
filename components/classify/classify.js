@@ -10,10 +10,12 @@ angular.module('classifyModule',[])
 })
 .controller('classifyCtrl',['$scope','$http',function($scope,$http){
 	$http.get('json/classify1.json').success(function(res){
+		
 		$scope.img1=res.data[32377].list[0].image;
 		$scope.listtu=res.data[15325].list;		
 	})
 	$http.get('json/classify2.json').success(function(res){
+		console.log(res);
 		$scope.listul=res.data[17118].list;	
 		$scope.listul2=res.data[17124].list;
 		$scope.listul3=res.data[17126].list;
