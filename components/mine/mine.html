@@ -1,8 +1,25 @@
-<div id='shopcarBox' ng-controller='mineCtrl' ng-show=isShopShow >
+<div id='shopcarBox' ng-controller='mineCtrl'>
 	<div id="top">
-		<img src="components/mine/img/xiaoyu.png" ng-click='changeShopShow()' />
-		<a>登录 - 美丽说</a>
-		<a>注册</a>
+		<img src="components/mine/img/xiaoyu.png"/>
+		<a>个人中心</a>
+		<a>退出</a>
 	</div>
-	
+	<div id="middle">
+		<div id='middle_div'>
+			<img src="components/mine/img/xiong.jpg"/>
+			<p>静希有珠</p>
+		</div>
+		<ul id='middle_ul'>
+			<li id='li1'><a href=""><span>0</span>收藏的宝贝</a><a href=""><span>0</span>收藏的店铺</a></li>
+			<li id='li2'><a href=""><span id='s1'></span>优惠券</a><a href=""><span id='s2'></span>收货地址</a></li>
+		</ul>
+	</div>
+	<div id="bottom">
+		<ul>
+			<li><a href=""><p id='p1'></p>全部订单</a></li>
+			<li><a href=""><p id='p2'></p>待付款</a></li>
+			<li><a href=""><p id='p3'></p>待收款</a></li>
+			<li><a href=""><p id='p4'></p>待评价</a></li>
+		</ul>
+	</div>
 </div>
