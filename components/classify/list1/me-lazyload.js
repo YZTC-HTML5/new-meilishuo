@@ -1,4 +1,4 @@
-angular.module('me-lazyload', [])
+angular.module('me-lazyloadmc', [])
 .directive('lazySrc', ['$window', '$document', function($window, $document){
     var doc = $document[0],
         body = doc.body,
