@@ -1,0 +1,19 @@
+<div id="menu0_tab">
+	<div ng-click="tabClick(mrsx_4,0)"><span ng-class="{'tab_red':isred==0}">4.24</span></div>
+	<div ng-click="tabClick(mrsx_3,1)"><span ng-class="{'tab_red':isred==1}">4.23</span></div>
+	<div ng-click="tabClick(mrsx_2,2)"><span ng-class="{'tab_red':isred==2}">4.22</span></div>
+	<div ng-click="tabClick(mrsx_1,3)"><span ng-class="{'tab_red':isred==3}">4.21</span></div>
+</div>
+<div id="menu0_main">
+	<ul>
+		<li ng-repeat="item in menu0_main">
+			<a href="{{item.link}}">
+				<div class="menu0_main_img">
+					<img src="{{item.show.img}}" />
+				</div>
+				<h3>{{item.title}}</h3>
+				<p><span class="menu0_price">{{item.price}}</span><span class="menu0_cfav"><img src="components/home/img/wjx.jpg"/>{{item.cfav}}</span></p>
+			</a>
+		</li>
+	</ul>
+</div>

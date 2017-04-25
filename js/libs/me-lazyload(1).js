@@ -25,7 +25,7 @@ angular.module('me-lazyload', [])
         };
     }
 
-    function isVisible(iElement){   	
+    function isVisible(iElement){
         var elem = iElement[0],
             elemRect = elem.getBoundingClientRect(),
             windowOffset = getWindowOffset(),
@@ -64,7 +64,6 @@ angular.module('me-lazyload', [])
     };
 
     function checkImage(){
-    	
         angular.forEach(elements, function(obj, key) {
             var iElement = obj.iElement,
                 $scope = obj.$scope;
@@ -75,11 +74,12 @@ angular.module('me-lazyload', [])
     }
 
     $win.bind('scroll', checkImage);
-    var t1 = document.querySelector("#main");
-    console.log(t1);
-    t1.onscroll = function(){
-    	checkImage();
-    }
+    setTimeout(function(){
+    	var box = document.getElementById('home_box')
+	    box.onscroll=function(){
+	    	checkImage();
+	    }
+    },400);
     $win.bind('resize', checkImage);
 
     function onLoad(){
@@ -104,7 +104,7 @@ angular.module('me-lazyload', [])
             iElement.bind('load', onLoad);
 
             $scope.$watch('lazySrc', function(){
-                var speed = "1s";
+                var speed = "5s";
                 if ($scope.animateSpeed != null) {
                     speed = $scope.animateSpeed;
                 }

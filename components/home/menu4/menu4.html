@@ -1,0 +1,53 @@
+<div id="menu4_first">
+	<div id="menu4_head">
+		<h2>本周流行关键词</h2>
+		<p>每周一更新</p>
+	</div>
+	<div id="menu4_menu">
+		<ul>
+			<li>
+				<div>秋季外套</div>
+			</li>
+			<li>
+				<div>飞行员夹克</div>
+			</li>
+			<li>
+				<div>针织美裙</div>
+			</li>
+			<li>
+				<div>新款短靴</div>
+			</li>
+			<li>
+				<div>信封包</div>
+			</li>
+			<li>
+				<div>面膜</div>
+			</li>
+		</ul>
+	</div>
+</div>
+<div id="menu4_second">
+	<div id="menu4_second_head">
+		<h2>每日流行单品</h2>
+		<p>手买&红人推荐，最值得买的流行单品</p>
+	</div>
+	<div id="menu4_second_main">
+		<ul>
+			<li ng-repeat="item in menu4_second_main">
+				<div class="menu4_left"><img src="{{item.image}}"/></div>
+				<div class="menu4_right">
+					<h3>{{item.title}}</h3>
+					<p class="dsp">{{item.description}}</p>
+					<p class="tag">{{item.tag1}}</p>
+					<p class="star">流行指数
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+						<span></span>
+					</p>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>

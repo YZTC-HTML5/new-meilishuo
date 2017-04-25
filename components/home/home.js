@@ -1,4 +1,4 @@
-angular.module('homeModule',[])
+angular.module('homeModule',['me-lazyload'])
 .config(function($stateProvider, $urlRouterProvider){
     $stateProvider
         .state('home',{
@@ -10,11 +10,17 @@ angular.module('homeModule',[])
 })
 
 .controller('homeCtrl',['$scope','$http',function($scope,$http){
-	$scope.ischang=0
+	$scope.ischang=0;
 	$http.get('json/topContent.json').success(function(res){
 		$scope.home_head=res.data[32377];
 		$scope.home_up=res.data[5956];
 		$scope.home_menu=res.data[13730];
+//		$scope.toMenu=function(res){
+//			localStorage.clear();
+//			localStorage.setItem('mineToDetail112',JSON.stringify(res));
+//
+//		}
+		
 	})
 	$http.get('json/niuzaiku.json').success(function(res){
 		$scope.home_menu_next=res.data
@@ -30,6 +36,15 @@ angular.module('homeModule',[])
 	})
 	$http.get('json/zuixin.json').success(function(res){
 		$scope.zuixin=res.data.list;
+		$("#home_box").on('scroll',function(){
+			if($("#home_box").scrollTop()>1400){
+				$("#mbj").show();
+				$("#home_tab").addClass('dw')
+			}else{
+				$("#home_tab").removeClass('dw')
+				$("#mbj").hide();
+			}
+		})
 	
 	})
 	$scope.isClick=function(datas,i){
@@ -37,14 +52,6 @@ angular.module('homeModule',[])
 		$scope.home_tab_main=datas;	
 		
 	}
-//	$("#home_box").onscroll = function () {
-//		console.log(999)
-//	}
-//	$("#sec").on('scroll',function(){
-//		console.log(11111);
-//	})
-	$("#home_box>div").on('scroll',function(){
-		console.log(11111);
-	})
+	
 	
 }])
