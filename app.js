@@ -1,4 +1,4 @@
-angular.module('mls',["ui.router",'angularCSS','homeModule','mineModule','classifyModule','shopcarModule','list1Module','sortpopModule','searchModule','sorthotModule','sortnewModule','searchModule1','searchModule2'])
+angular.module('mls',["ui.router",'angularCSS','homeModule','mineModule','classifyModule','shopcarModule','list1Module','sortpopModule','searchModule','sorthotModule','sortnewModule','searchModule1','searchModule2','buyModule','buyModule2','buyModule3','me-lazyload'])
 .config(function($stateProvider, $urlRouterProvider){
     $urlRouterProvider.otherwise('/home');
 })
