@@ -1,5 +1,5 @@
 <div id="home_box" ui-view>
-	<div>
+	<div id="innerBox">
 		<div id="home_head"><img src="{{home_head.list[0].image}}" /></div>
 		<div id="home_main">
 			<div id="home_search">
@@ -18,7 +18,7 @@
 				<div id="home_menu1">
 					<ul>
 						<li ng-repeat="(i,item) in home_menu.list">
-							<a href="" ui-sref=".menu{{i}}"><img src="{{item.image}}" /></a>
+							<a href="" ui-sref=".menu{{i}}"><img src="{{item.image}}"/></a>
 						</li>
 					</ul>
 				</div>
@@ -48,9 +48,9 @@
 					<li ng-repeat="item in home_tab_main">
 						<a href="{{item.link}}">
 							<div class="tab_main_img">
-								<div class="leftTop" ng-if="item.lefttop_taglist[0]"><img src="{{item.lefttop_taglist[0].img}}" /></div>
-								<div class="leftBottom" ng-if="item.leftbottom_taglist[0]"><img src="{{item.leftbottom_taglist[0]}}" /></div>
-								<img src="{{item.show.img}}" />
+								<div class="leftTop" ng-if="item.lefttop_taglist[0]"><img lazy-src="{{item.lefttop_taglist[0].img}}" /></div>
+								<div class="leftBottom" ng-if="item.leftbottom_taglist[0]"><img lazy-src="{{item.leftbottom_taglist[0]}}" /></div>
+								<img lazy-src="{{item.show.img}}" />
 							</div>
 							<h3>{{item.title}}</h3>
 							<p><span class="home_price">{{item.price}}</span><span class="home_cfav"><img src="components/home/img/wjx.jpg"/>{{item.cfav}}</span></p>
