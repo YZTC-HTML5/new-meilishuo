@@ -31,7 +31,7 @@ angular.module('homeModule',[])
 	})
 	$http.get('json/zuixin.json').success(function(res){
 		$scope.zuixin=res.data.list;
-		$("#home_box").on('scroll',function(){
+		$("#main").on('scroll',function(){
 			console.log($("#home_box").scrollTop());
 			if($("#home_box").scrollTop()>1400){
 				$("#mbj").show();
