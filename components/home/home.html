@@ -1,24 +1,24 @@
 <div id="home_box" ui-view>
-	<div id="home_head"><img src="{{home_head.list[0].image}}" /></div>
-	<div id="home_main" >
-		<div id="home_search">
-			<form action="" method="post">
-				<img src="components/home/img/logo.png" alt="" id="logo" />
-				<a href="javascript:vido(0)" ui-sref='.search' ng-click="ishides=1">
-					<input type="text" value="卫衣" />
-				</a>
-				<img src="components/home/img/xx.png" alt="" />
-			</form>
-		</div>
-		<div>
+	<div>
+		<div id="home_head"><img src="{{home_head.list[0].image}}" /></div>
+		<div id="home_main">
+			<div id="home_search">
+				<form action="" method="post">
+					<img src="components/home/img/logo.png" alt="" id="logo" />
+					<a href="javascript:vido(0)" ui-sref='.search'>
+						<input type="text" placeholder="卫衣" />
+					</a>
+					<img src="components/home/img/xx.png" alt="" />
+				</form>
+			</div>
 			<div id="home_up">
 				<a href="{{home_up.list[0].link}}"><img src="{{home_up.list[0].image}}" /></a>
 			</div>
 			<div id="home_menu">
 				<div id="home_menu1">
 					<ul>
-						<li ng-repeat="item in home_menu.list">
-							<a href="{{item.link}}"><img src="{{item.image}}" /></a>
+						<li ng-repeat="(i,item) in home_menu.list">
+							<a href="" ui-sref=".menu{{i}}"><img src="{{item.image}}" /></a>
 						</li>
 					</ul>
 				</div>
@@ -60,5 +60,5 @@
 			</div>
 		</div>
 	</div>
-	<a href="#home_head" id="mbj"></a>
+	<a href="" id="mbj" onclick="document.getElementById('home_main').scrollIntoView()"></a>
 </div>

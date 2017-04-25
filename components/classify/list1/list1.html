@@ -1,7 +1,7 @@
 <div class="mainclassify" >
 <a ui-sref='home' href="" class="a1"><img src="{{img1}}"/></a>
 <p class="p1"></p>
-<p class="p2"><a></a><span>上衣</span><a></a></p>
+<p class="p2"><a></a><span ><a ui-sref='.search' href="" ng-click="ishides=1">卫衣</a></span><a></a></p>
 <div class="divtop">
 	<p>应季必备</p>
 	<p>ESSENTIAL SEASONALE</p>
@@ -47,7 +47,7 @@
 	<li><a ui-sref='.sortpop' href="">流行</a></li>
 	<li><a ui-sref='.sorthot' href="">热销</a></li>
 	<li><a ui-sref='.sortnew' href="">上新</a></li>
-<ul>
-<div ui-view>
+</ul>
+<div class="divui" ui-view></div>
 	
 </div>
