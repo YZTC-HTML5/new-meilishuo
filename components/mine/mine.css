@@ -19,6 +19,14 @@
 #bottom{width: 100%;height:62%;background: #f4f4f4;padding: .5rem 0 0 0;}
 #bottom>ul{width: 100%;height: 20%;background: white;}
 #bottom>ul>li{width:25%;height:100%;float: left;text-align: center;padding: .5rem 0 0 0;}
-#bottom>ul>li>a{display: block;width: 100%;height: 100%;}
-#p1{width: 60%;height: 30%;background:url(http://d03.res.meilishuo.net/pic/_o/c6/fc/9b0ba6f3238a9af4b4b576ebe6d6_580_678.cf.png) no-repeat -70% 100%;background-size: 5rem;}
-#p2{width: 60%;height: 30%;background:url(http://d03.res.meilishuo.net/pic/_o/c6/fc/9b0ba6f3238a9af4b4b576ebe6d6_580_678.cf.png) no-repeat 76% 100%;background-size: 5rem;margin: 0 0 .5rem 0;}
+#bottom>ul>li>a{display: block;width: 100%;height: 100%;text-align: center;}
+.inact1{width: 30%;height: 30%;margin:0 0 0 37%;background:url(http://d03.res.meilishuo.net/pic/_o/c6/fc/9b0ba6f3238a9af4b4b576ebe6d6_580_678.cf.png) no-repeat -5% 83%;background-size: 7rem;}
+.inact2{width: 30%;height: 30%;margin:0 0 0 37%;background:url(http://d03.res.meilishuo.net/pic/_o/c6/fc/9b0ba6f3238a9af4b4b576ebe6d6_580_678.cf.png) no-repeat 30% 83%;background-size: 7rem;}
+.inact3{width: 30%;height: 30%;margin:0 0 0 37%;background:url(http://d03.res.meilishuo.net/pic/_o/c6/fc/9b0ba6f3238a9af4b4b576ebe6d6_580_678.cf.png) no-repeat 65% 83%;background-size: 7rem;}
+.inact4{width: 30%;height: 30%;margin:0 0 0 37%;background:url(http://d03.res.meilishuo.net/pic/_o/c6/fc/9b0ba6f3238a9af4b4b576ebe6d6_580_678.cf.png) no-repeat 105% 83%;background-size: 7rem;}
+.active{color: #999;}
+.inactive{color: #ff3366;}
+.act1{width: 30%;height: 30%;margin:0 0 0 37%;background:url(http://d03.res.meilishuo.net/pic/_o/c6/fc/9b0ba6f3238a9af4b4b576ebe6d6_580_678.cf.png) no-repeat -5% 100%;background-size: 7rem;}
+.act2{width: 30%;height: 30%;margin:0 0 0 37%;background:url(http://d03.res.meilishuo.net/pic/_o/c6/fc/9b0ba6f3238a9af4b4b576ebe6d6_580_678.cf.png) no-repeat 30% 100%;background-size: 7rem;}
+.act3{width: 30%;height: 30%;margin:0 0 0 37%;background:url(http://d03.res.meilishuo.net/pic/_o/c6/fc/9b0ba6f3238a9af4b4b576ebe6d6_580_678.cf.png) no-repeat 65% 100%;background-size: 7rem;}
+.act4{width: 30%;height: 30%;margin:0 0 0 37%;background:url(http://d03.res.meilishuo.net/pic/_o/c6/fc/9b0ba6f3238a9af4b4b576ebe6d6_580_678.cf.png) no-repeat 105% 100%;background-size: 7rem;}

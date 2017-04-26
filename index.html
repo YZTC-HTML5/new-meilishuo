@@ -27,10 +27,11 @@
     <script src="components/classify/list1/sortnew/sortnew.js" type="text/javascript" charset="utf-8"></script>
     <script src="components/classify/search/search.js" type="text/javascript" charset="utf-8"></script> 
     <script src="components/classify/list1/search/search.js" type="text/javascript" charset="utf-8"></script> 
+    <script type="text/javascript" src='components/mine/tips/tips.js'></script>
     <script src="components/classify/list1/sortpop/buy/buy.js" type="text/javascript" charset="utf-8"></script> 
     <script src="components/classify/list1/sortnew/buy/buy.js" type="text/javascript" charset="utf-8"></script> 
     <script src="components/classify/list1/sorthot/buy/buy.js" type="text/javascript" charset="utf-8"></script> 
-   
+    <script src="components/classify/list1/me-lazyload.js" type="text/javascript" charset="utf-8"></script> 
 </head>
 <body>
 	<div id="wrap">
@@ -52,9 +53,10 @@
 					<img src="img/shopcar1.png" ng-show=isShopcar />
 					<a ui-sref='shopcar' href="" ng-class="{true:'active',false:'inactive'}[isShopcar2]" >购物车</a>
 				</li>
-				<li ng-click='changeTabShow()'>
-					<img src="img/mine.png"/>
-					<a ui-sref='mine' href="">我</a>
+				<li ng-click='changeMine()'>
+					<img src="img/mine.png" ng-show=isMine1 />
+					<img src="img/mine1.png" ng-show=isMine />
+					<a ui-sref='mine.tips' href="" ng-class="{true:'active',false:'inactive'}[isMine2]">我</a>
 				</li>
 			</ul>
 		</div>
