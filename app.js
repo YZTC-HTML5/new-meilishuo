@@ -1,8 +1,6 @@
-angular.module('mls',["ui.router",'angularCSS','homeModule','mineModule','classifyModule','shopcarModule','list1Module','sortpopModule','searchModule','menu0Module','menu4Module','sorthotModule','sortnewModule','searchModule1','searchModule2','tipsModule'])
-angular.module('mls',["ui.router",'angularCSS','homeModule','me-lazyload','mineModule','classifyModule','shopcarModule','list1Module','sortpopModule','searchModule','menu0Module','menu4Module','sorthotModule','sortnewModule','searchModule1','searchModule2','buyModule','buyModule2','buyModule3'])
-
+angular.module('mls',["ui.router",'angularCSS','homeModule','me-lazyload','mineModule','classifyModule','shopcarModule','list1Module','sortpopModule','searchModule','menu0Module','menu4Module','sorthotModule','sortnewModule','searchModule1','searchModule2','buyModule','buyModule2','buyModule3','tipsModule'])
 .config(function($stateProvider, $urlRouterProvider){
-//  $urlRouterProvider.otherwise('/home');
+    $urlRouterProvider.otherwise('/home');
 })
 .controller('tabCtrl',function($scope){
 	$scope.isHome1=false;
