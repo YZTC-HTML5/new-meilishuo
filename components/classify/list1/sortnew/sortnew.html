@@ -1,3 +1,4 @@
 <ul class="ullists">
-	<li ng-repeat="a in arr"><a><img src="{{a.show.img}}"><p>{{a.title}}</p><p>{{(a.price+' '+a.cfav)}}</p></a><span><img src="{{a.lefttop_taglist[0].img}}"/></span><li>
+	<li ng-repeat="a in arr"><a ui-sref=".buy" href="" ng-click="content(a)"><img lazy-src="{{a.show.img}}"><p>{{a.title}}</p><p>{{(a.price+' '+a.cfav)}}</p></a><span><img src="{{a.lefttop_taglist[0].img}}"/></span><li>
 </ul>
+<div class="buy" ui-view></div>

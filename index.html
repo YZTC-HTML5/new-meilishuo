@@ -12,6 +12,7 @@
     <script src="js/libs/angular-ui-router.js" type="text/javascript" charset="utf-8"></script>
     <script src="js/libs/angular-css.min.js" type="text/javascript" charset="utf-8"></script>
     <script src="js/libs/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/libs/me-lazyload(1).js" type="text/javascript" charset="utf-8"></script>
     <script src="app.js" type="text/javascript" charset="utf-8"></script>
     <script src="components/home/home.js" type="text/javascript" charset="utf-8"></script>
     <script src="components/mine/mine.js" type="text/javascript" charset="utf-8"></script>
@@ -26,7 +27,14 @@
     <script src="components/classify/list1/sortnew/sortnew.js" type="text/javascript" charset="utf-8"></script>
     <script src="components/classify/search/search.js" type="text/javascript" charset="utf-8"></script> 
     <script src="components/classify/list1/search/search.js" type="text/javascript" charset="utf-8"></script> 
+
     <script type="text/javascript" src='components/mine/tips/tips.js'></script>
+
+    <script src="components/classify/list1/sortpop/buy/buy.js" type="text/javascript" charset="utf-8"></script> 
+    <script src="components/classify/list1/sortnew/buy/buy.js" type="text/javascript" charset="utf-8"></script> 
+    <script src="components/classify/list1/sorthot/buy/buy.js" type="text/javascript" charset="utf-8"></script> 
+    <script src="components/classify/list1/me-lazyload.js" type="text/javascript" charset="utf-8"></script> 
+
 </head>
 <body>
 	<div id="wrap">
@@ -36,7 +44,7 @@
 				<li ng-click='changeHome()'>
 					<img src="img/home.png" ng-show=isHome1 />
 					<img src="img/home1.png" ng-show=isHome />
-					<a ui-sref='home' href="" ng-class="{true:'active',false:'inactive'}[isHome2]" >首页</a>
+					<a ui-sref='home' ui-sref-opts="{reload:true}" href="" ng-class="{true:'active',false:'inactive'}[isHome2]" >首页</a>
 				</li>
 				<li ng-click='changeClassify()'>
 					<img src="img/classify.png" ng-show=isClassify1 />

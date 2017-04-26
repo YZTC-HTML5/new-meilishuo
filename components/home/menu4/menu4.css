@@ -15,4 +15,13 @@
 #menu4_second_head{width: 100%;height: 3.1rem;}
 #menu4_second_head>h2{width: 100%;text-align: center;margin-top: .6rem;font-size: .7rem;font-weight: normal;color: #333333;}
 #menu4_second_head>p{width: 100%;text-align: center;margin-top: .3rem;color: #999999;}
-
+#menu4_second_main>ul>li{width: 100%;height: 6.9rem;overflow: hidden;margin-bottom: .8rem;}
+.menu4_left{width: 6.6rem;margin-left:.75rem;float: left;}
+.menu4_left>img{width: 100%;height: 100%;display: block;}
+.menu4_right{width: 7.1rem;margin-left: .75rem;float: left;color: #666666;}
+.menu4_right>h3{width: 100%;font-size: .7rem;font-weight: normal;}
+.dsp{height: 2.8rem;margin-top: .3rem;margin-bottom: .3rem;overflow: hidden;text-overflow: ellipsis;line-height: .7rem;}
+.tag{display: inline-block;padding: .1rem .3rem;border: 1px solid #666666;margin-bottom: .5rem;line-height: .7rem;}
+.star>span{width: .35rem;height: .35rem;display: inline-block;margin-left: .1rem;
+ 		vertical-align: middle;background:url("../img/red.png") no-repeat;background-size: cover;}
+.star_gray{background:url("../img/gray.png") no-repeat;background-size: cover;}

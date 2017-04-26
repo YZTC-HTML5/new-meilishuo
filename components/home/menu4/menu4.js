@@ -9,10 +9,9 @@ angular.module('menu4Module',[])
         })
 })
 .controller('menu4Ctrl',['$scope','$http',function($scope,$http){
-//	$http.get('json/mrsx_4.json').success(function(res){
-//		console.log(res.data);
-//		$scope.mrsx_4=res.data.list;
-//		$scope.menu0_main=$scope.mrsx_4;
-//	})
+	$http.get('json/yzlx.json').success(function(res){
+		console.log(res.data);
+		$scope.menu4_second_main=res.data.list;
+	})
 	
 }])
