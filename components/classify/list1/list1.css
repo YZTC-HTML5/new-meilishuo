@@ -7,7 +7,7 @@
 }
 
 #main{background: #eeeeee;padding: 0;margin: 0;}
-.mainclassify{background: #fff;overflow: auto;padding: 0;margin: 0;overflow: auto;width: 100%;height: 100%;}
+#mainclassify{background: #fff;overflow: auto;padding: 0;margin: 0;overflow: auto;width: 100%;height: 100%;}
 .a1{display:block;width: 100%;height: 2.51rem;border-bottom: 1px solid #fdfdfd;position: fixed;top: 0;left: 0;z-index: 999;}
 .a1>img{width: 100%;height:  2.51rem;}
 .p1{width: 100%;height:2.5rem;}
