@@ -9,9 +9,52 @@ angular.module('mineModule',[])
         })
 })
 .controller('mineCtrl',['$scope',function($scope){
-	$scope.isShopShow=true;
-	$scope.changeShopShow=function(){
-		$scope.isShopShow=!$scope.isShopShow;
-		$scope.isTabShow = true;
+	$scope.isA21=false;
+	$scope.isA22=true;
+	$scope.isA23=true;
+	$scope.isA24=true;
+	$scope.isAct1=false;
+	$scope.isAct2=true;
+	$scope.isAct3=true;
+	$scope.isAct4=true;
+	$scope.changeA1=function(){
+		$scope.isA21=false;
+		$scope.isA22=true;
+		$scope.isA23=true;
+		$scope.isA24=true;
+		$scope.isAct1=false;
+		$scope.isAct2=true;
+		$scope.isAct3=true;
+		$scope.isAct4=true;
+	}
+	$scope.changeA2=function(){
+		$scope.isA21=true;
+		$scope.isA22=false;
+		$scope.isA23=true;
+		$scope.isA24=true;
+		$scope.isAct1=true;
+		$scope.isAct2=false;
+		$scope.isAct3=true;
+		$scope.isAct4=true;
+	}
+	$scope.changeA3=function(){
+		$scope.isA21=true;
+		$scope.isA22=true;
+		$scope.isA23=false;
+		$scope.isA24=true;
+		$scope.isAct1=true;
+		$scope.isAct2=true;
+		$scope.isAct3=false;
+		$scope.isAct4=true;
+	}
+	$scope.changeA4=function(){
+		$scope.isA21=true;
+		$scope.isA22=true;
+		$scope.isA23=true;
+		$scope.isA24=false;
+		$scope.isAct1=true;
+		$scope.isAct2=true;
+		$scope.isAct3=true;
+		$scope.isAct4=false;
 	}
 }])

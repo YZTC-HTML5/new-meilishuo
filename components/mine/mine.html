@@ -16,10 +16,14 @@
 	</div>
 	<div id="bottom">
 		<ul>
-			<li><a href=""><p id='p1'></p>全部订单</a></li>
-			<li><a href=""><p id='p2'></p>待付款</a></li>
-			<li><a href=""><p id='p3'></p>待收款</a></li>
-			<li><a href=""><p id='p4'></p>待评价</a></li>
+			<li><a ui-sref=".tips" href="" ng-click='changeA1()' ng-class="{true:'active',false:'inactive'}[isA21]"><p id='p1' ng-class="{true:'act1',false:'inact1'}[isAct1]"></p>全部订单</a></li>
+			<li><a ui-sref=".tips" href="" ng-click='changeA2()' ng-class="{true:'active',false:'inactive'}[isA22]"><p id='p2' ng-class="{true:'act2',false:'inact2'}[isAct2]"></p>待付款</a></li>
+			<li><a ui-sref=".tips" href="" ng-click='changeA3()' ng-class="{true:'active',false:'inactive'}[isA23]"><p id='p3' ng-class="{true:'act3',false:'inact3'}[isAct3]"></p>待收款</a></li>
+			<li><a ui-sref=".tips" href="" ng-click='changeA4()' ng-class="{true:'active',false:'inactive'}[isA24]"><p id='p4' ng-class="{true:'act4',false:'inact4'}[isAct4]"></p>待评价</a></li>
 		</ul>
+		<div ui-view>
+		
+		</div>
 	</div>
+	
 </div>
