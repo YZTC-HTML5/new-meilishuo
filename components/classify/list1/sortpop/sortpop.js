@@ -37,7 +37,7 @@ angular.module('sortpopModule',[])
 		$scope.arr=res.data.list;	
 		$scope.content=function(item){
 			myFactory.set(item);
-			console.log(item);
+			
 		}
 	})
 }])
