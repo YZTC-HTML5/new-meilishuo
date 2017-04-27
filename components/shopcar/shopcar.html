@@ -1,14 +1,37 @@
 <div id='shopcarBox'>
 	<div id="top">
-		<img src="components/shopcar/img/xiaoyu.png"/>
+		<img src="components/shopcar/img/xiaoyu.png" ui-sref='classify'/>
 		<a>购物车</a>
-		<a>首页</a>
+		<a class="delete" ng-click="toDelete()">首页</a>
 	</div>
 	<div id="products">
 		<div id="products_top">
 			<p>您的购物车还空着呢，</p>
 			<p>美物这么多，快去看看吧~</p>
-			<div><a href="">去逛逛</a></div>
+			<div><a href="" ui-sref='home'>去逛逛</a></div>
+		</div>
+	</div>
+	<div id="shopcar_main">
+		<div id="shopcarM_h">
+			<div><input type="checkbox" name="" id="" value="" checked="checked"/></div>
+			<p>店铺： 美丽优选</p>
+			<p id="carPic">合计：<span>111.00</span></p>
+			<span ng-click="slide()"></span>
+		</div>
+		<div id="shopcarM_m">
+			<ul>
+				<li ng-repeat="item in goodsArr">
+					<div class="li_check"><input type="checkbox" name="" id="" value="" checked="checked"/></div>
+					<div class="li_main">
+						<img src="{{item.show.img}}" alt="" />
+						<div class="li_m_d">
+							<p>{{item.title}}</p>
+							<div><span>-</span><span class="li_num">{{item.num}}</span><span>+</span></div>
+						</div>
+						<div class="li_m_p">{{item.price}}</div>
+					</div>
+				</li>
+			</ul>
 		</div>
 	</div>
 </div>
