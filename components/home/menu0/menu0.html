@@ -9,7 +9,7 @@
 		<li ng-repeat="item in menu0_main">
 			<a href="{{item.link}}">
 				<div class="menu0_main_img">
-					<img src="{{item.show.img}}" />
+					<img lazy-src="{{item.show.img}}" />
 				</div>
 				<h3>{{item.title}}</h3>
 				<p><span class="menu0_price">{{item.price}}</span><span class="menu0_cfav"><img src="components/home/img/wjx.jpg"/>{{item.cfav}}</span></p>

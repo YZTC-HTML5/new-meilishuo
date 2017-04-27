@@ -74,12 +74,11 @@ angular.module('me-lazyload', [])
     }
 
     $win.bind('scroll', checkImage);
-    setTimeout(function(){
-    	var box = document.getElementById('home_box')
-	    box.onscroll=function(){
-	    	checkImage();
-	    }
-    },400);
+    setInterval(function(){
+    	document.getElementById('main').onscroll=function(){
+		checkImage();
+	}
+    },500)
     $win.bind('resize', checkImage);
 
     function onLoad(){
@@ -104,7 +103,7 @@ angular.module('me-lazyload', [])
             iElement.bind('load', onLoad);
 
             $scope.$watch('lazySrc', function(){
-                var speed = "5s";
+                var speed = "3s";
                 if ($scope.animateSpeed != null) {
                     speed = $scope.animateSpeed;
                 }
