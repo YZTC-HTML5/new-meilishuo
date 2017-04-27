@@ -24,5 +24,8 @@
 .divbuy .ppp>span:nth-child(1){display:inline-block;width:50%;height: 100%;color: #ff3366;font-size: 1.1rem;text-align: right;line-height: 1.8rem;}
 .divbuy .ppp>span:nth-child(2){display:inline-block;width:50%;height: 100%;color: #b1b1b1;font-size: 0.7rem;text-decoration: line-through;line-height: 1.8rem;}
 .divbuy .pp {position: fixed;left: 0;bottom: 0;padding: 0;margin: 0;}
-.divbuy .pp>a:nth-child(2){display:inline-block;width: 40%;height: 2.3rem;background: #ff3366;float:right;text-align: center;line-height: 2.3rem;color: #000;background: #ffe817;}
-.divbuy .pp>a:nth-child(1){display:inline-block;width: 25%;height: 2.3rem;background: #ff3366;float:right;text-align: center;line-height: 2.3rem;color: #fff;}
+.divbuy .pp>a:nth-child(1){display: inline-block;width:15% ;height: 2.3rem;background:url(sorta3.jpg) no-repeat center ;float:left;}
+.divbuy .pp>a:nth-child(2){display: inline-block;width:15% ;height: 2.3rem;background:url(sorta2.jpg) no-repeat center;float:left;}
+.divbuy .pp>a:nth-child(3){display: inline-block;width:15% ;height: 2.3rem;background:url(sorta1.jpg) no-repeat center;float:left;}
+.divbuy .pp>a:nth-child(4){display:inline-block;width: 30%;height: 2.3rem;background: #ff3366;float:right;text-align: center;line-height: 2.3rem;color: #000;background: #ffe817;}
+.divbuy .pp>a:nth-child(5){display:inline-block;width: 25%;height: 2.3rem;background: #ff3366;float:right;text-align: center;line-height: 2.3rem;color: #fff;}
