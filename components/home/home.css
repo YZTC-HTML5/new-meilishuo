@@ -1,4 +1,3 @@
-#home_box{width: 100%;height: 100%;position: relative;overflow:auto;}
 #home_head{height:2.5rem;width: 100%;position: fixed;top: 0;z-index: 2;}
 #home_head>img{width: 100%;height: 100%;}
 #home_main{width: 100%;position: absolute;top: 2.5rem;overflow:auto;}
