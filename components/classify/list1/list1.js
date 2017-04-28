@@ -9,5 +9,14 @@ angular.module('list1Module',[])
         })
 })
 .controller('list1Ctrl',['$scope',function($scope){
-	
+	$("#main").on('scroll', function() {
+			if($("#main").scrollTop() > 200) {
+				$("#mbj").show();
+				
+			} else {
+			
+				$("#mbj").hide();
+			}
+		})
+
 }])
