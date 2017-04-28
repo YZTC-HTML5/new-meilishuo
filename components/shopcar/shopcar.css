@@ -1,5 +1,5 @@
 #shopcarBox{width: 100%;height: 100%;}
-#top{width: 100%;height: 10%;background: rgba(255,255,255,0);position: relative;}
+#top{width: 100%;height: 10%;background: rgba(255,255,255,0);position: relative;border-bottom: 1px solid #e0e0e0;}
 #top>img{height: .8rem;position: absolute;left: .5rem;top: 1rem;}
 #top>a{font-size: .8rem;color: #666;}
 #top>a:nth-of-type(1){display:block;width: 4rem;height: 1.5rem;text-align: center;position: absolute;right: 5.8rem;top: .7rem;}
@@ -9,3 +9,23 @@
 #products_top>p{width: 100%;text-align: center;}
 #products_top>div{width: 4rem;height:1.5rem;line-height:1.5rem;text-align: center;background: #f66;margin: 1.5rem 0 0 6rem;}
 #products_top>div a{color: white;}
+#shopcar_main{width: 100%;}
+#shopcarM_h{width: 100%;height: 2.7rem;border-bottom: 1px solid #e0e0e0;}
+#shopcarM_h>div{width: 2.4rem;height: 100%;text-align: center;line-height:2.7rem ;float: left;}
+/*#shopcarM_h>div>input{line-height: ;}*/
+#shopcarM_h>p{float: left;line-height: 2.7rem;}
+#shopcarM_h>span{display: block;float: left;width:1.25rem ;height:.5rem;background:url("img/car.png")no-repeat;
+	background-size: 2.5rem;margin-top: 1.1rem;}
+#shopcarM_h #carPic{margin-left: 3.2rem;width: 4.6rem;}
+#carPic>span{color: #ff7a9a;}
+#shopcarM_m>ul>li{width: 100%;height: 4.6rem;border-bottom:  1px solid #e0dade ;}
+.li_check{width: 2.4rem;height: 100%;text-align: center;line-height:2.7rem ;float: left;}
+.li_main{width: 13.6rem;float: left;padding: .75rem .75rem .75rem 0;}
+.li_main>img{display: block;width: 3rem;height: 3rem;float: left;margin-right: .5rem;}
+.li_m_d{width: 6.5rem;float: left;}
+.li_m_d>p{overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.li_m_d>div{width: 4.5rem;height: 1.3rem;border: 1px solid #e0dade;margin-top: .9rem;}
+.li_m_d>div>span{display: block;float: left;width:1.2rem ;height: 100%;text-align: center;line-height: 1.3rem;}
+.li_m_d .li_num{width: 2rem;border-left: 1px solid #e0dade ;border-right: 1px solid #e0dade ;}
+.li_m_p{width: 2.8rem;float: left;text-align: right;color: #ff95ae;}
+#shopcarM_h .slideInUp{background:url("img/car.png")no-repeat -32px top;background-size: 2.5rem;}
